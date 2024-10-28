@@ -11,8 +11,3 @@ Make sure you have the following libraries installed:
 - pandas
 - matplotlib
 - seaborn
-
-You can install them using pip:
-
-```bash
-pip install pandas matplotlib seaborn
